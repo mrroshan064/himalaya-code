@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "contact": "Contact",
+  "about": "About",
+  "page": {
+     "welcome": {
+         "home": "welcome to home page",
+         "contact": "welcome to contact page",
+         "about": "welcome to about page"
+     }
+  },
+  "parag": {
+    "description": "Description Page."
+}
+}
